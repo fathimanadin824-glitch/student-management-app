@@ -19,16 +19,6 @@ A simple and user-friendly **Student Management App** developed using Flutter an
 | SharedPreferences | Local key-value storage dependency |
 | Material Design | User interface |
 
-## 📱 Screenshots
-
-Add your actual application screenshots here.
-
-```text
-screenshots/
-├── dashboard.png
-├── add_student.png
-└── student_list.png
-```
 
 ## 🚀 Getting Started
 
